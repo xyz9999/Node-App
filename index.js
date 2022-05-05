@@ -1,3 +1,5 @@
+const http = require('http');
+
 const hostname = 'http://ec2-52-45-170-173.compute-1.amazonaws.com/';
 const port = 3000;
 
